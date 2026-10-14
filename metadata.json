@@ -1,0 +1,6 @@
+{
+  "name": "단양 동굴 여행 비용 계산기 & 코스 추천",
+  "description": "스마트폰으로 쉽게 계산하는 단양 고수동굴·온달동굴 입장료/체험비 계산기 및 당일치기·1박2일 지질 명소 추천 코스, 카카오톡 정산 공유",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
